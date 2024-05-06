@@ -1,10 +1,6 @@
-
-# EX 2c.SIMULATING ARP /RARP PROTOCOLS
-
-NAME:CHANDRU.P
-
-reg no:212223110007
-
+# EX 6.SIMULATING ARP /RARP PROTOCOLS
+### Register No: 212223110007
+### Name: CHANDRU.P
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
